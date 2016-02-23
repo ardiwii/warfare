@@ -1,7 +1,7 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-Project("{90220FF0-9226-AE50-C20D-597957D01AD0}") = "Warfare", "Assembly-CSharp.csproj", "{88258571-31AD-F424-FBB4-FDC399AB783D}"
+Project("{2E9037EF-894D-2890-38A8-899AD63CB80F}") = "warfare", "Assembly-CSharp.csproj", "{23D8C48D-E432-0EB1-4604-0FECD70507BB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +9,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{88258571-31AD-F424-FBB4-FDC399AB783D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{88258571-31AD-F424-FBB4-FDC399AB783D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{88258571-31AD-F424-FBB4-FDC399AB783D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{88258571-31AD-F424-FBB4-FDC399AB783D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23D8C48D-E432-0EB1-4604-0FECD70507BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23D8C48D-E432-0EB1-4604-0FECD70507BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23D8C48D-E432-0EB1-4604-0FECD70507BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23D8C48D-E432-0EB1-4604-0FECD70507BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -36,5 +36,4 @@ Global
 		$3.inheritsScope = text/plain
 		$3.scope = text/plain
 	EndGlobalSection
-
 EndGlobal
